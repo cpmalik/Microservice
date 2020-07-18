@@ -1,0 +1,4 @@
+This project 3 services
+First deployed discovery-microservice-server
+Second deploy account-microservice-server
+Third deploy webclient-microservice-server
